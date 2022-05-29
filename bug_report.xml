@@ -15,6 +15,6 @@
 		<step>Open the application</step>
 		<step>Click on the &quot;Add widget&quot; button</step>
 	</steps_to_reproduce>
-	<actual_result>&quot;Add widget&quot; button is not working and widget is not created</actual_result>
-	<expected_result>The widget creation window appears and the widget is created</expected_result>
+	<actual_result>When the &quot;Add widget&quot; button is clicked nothing happens</actual_result>
+	<expected_result>When the &quot;Add widget&quot; button is clicked the widget is created</expected_result>
 </bug_report>
