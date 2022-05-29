@@ -1,0 +1,28 @@
+<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<skills>
+   <soft_skills_list>
+      <soft_skills>attentiveness</soft_skills>
+      <soft_skills>perseverance</soft_skills>
+      <soft_skills>sociability</soft_skills>
+      <soft_skills>responsibility</soft_skills>
+      <soft_skills>learnability</soft_skills>
+   </soft_skills_list>
+   <hard_skills_list>
+       <web_tesing_knowledge>
+          <web_testing>The Linux command line</web_testing>
+          <web_testing> Bash scripting basics</web_testing>
+          <web_testing>API testing with Postman</web_testing>
+          <web_testing>JS basics</web_testing>
+          <web_testing>SQL basics</web_testing>
+          <web_testing>Charles and Fiddler</web_testing>
+          <web_testing>Load testing in Jmeter</web_testing>
+          <web_testing>Database Postgres</web_testing>
+          <web_testing>Database Redis</web_testing>
+       </web_tesing_knowledge>
+       <mobile_testing_knowledge>
+          <mobile_testing>Android Studio</mobile_testing>
+          <mobile_testing>XCode</mobile_testing>
+          <mobile_testing>Charles and Fiddler </mobile_testing>
+       </mobile_testing_knowledge>
+   </hard_skills_list>
+</skills>
