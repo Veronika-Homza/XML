@@ -1,1 +1,20 @@
-
+<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<bug_report>
+	<bug_id>1</bug_id>
+	<title>&quot;Add Widget&quot; button is not working</title>
+	<severity>Blocker</severity>
+	<priority>High</priority>
+	<environment_list>
+		<environment>Nokia X20 Android 12</environment>
+		<environment>Samsung Galaxy A72 Android 11</environment>
+		<environment>Xiaomi Redmi Note 4 Android 7.0</environment>
+	</environment_list>
+	<precondition>empty</precondition>
+	<steps_to_reproduce>
+		<step>Install the application</step>
+		<step>Open the application</step>
+		<step>Click on the &quot;Add widget&quot; button</step>
+	</steps_to_reproduce>
+	<actual_result>&quot;Add widget&quot; button is not working and widget is not created</actual_result>
+	<expected_result>The widget creation window appears and the widget is created</expected_result>
+</bug_report>
